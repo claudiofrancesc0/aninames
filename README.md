@@ -2,8 +2,12 @@
 aninames
 
 
-git clone https://github.com/claudiofrancesc0/aninames
+1. pkg update && pkg install git python -y && git clone https://github.com/claudiofrancesc0/aninames
 
-ls
+2. cd aninames
 
-python3 aninames.py
+3. python aninames.py
+
+
+
+
